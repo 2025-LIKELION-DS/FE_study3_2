@@ -26,12 +26,15 @@
 - 아기사자 최솔의 답 🍊<br>
     답 : git pull origin feat/user
     <br>이유 : 변경 사항을 가져올 때 git pull 을 쓰는 것은 알았지만 뒤에 어떤 내용이 오는지와 origin이 정확히 어떤 레포를 지시하고 있는지에 대해 알지못했다.
+- 아기사자 고권혜의 답 🍊<br>
+    답 : git pull origin feat/user
+    <br>이유 : main을 가져와야한다고 생각했지만 현재 메인으로 이동해있고, feat/user의 변경 내용을 가져와야 되기 때문에 정답은 git pull origin feat/user 였습니다.
 
 <hr>
 
 #### 🦁 마무리
 
-- 아기사자 000 🍊<br>
+- 아기사자 고권혜 🍊<br>
     느낀점 :
     <br>각오 :
 
