@@ -14,4 +14,4 @@
 | ------ | ------ |
 | 최솔   | 고권혜 |
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9caca&height=200&text=Hi!%20We%20are%20front%203team%20⋆✴︎˚｡⋆&animation=fadeIn&fontColor=fff&align=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9caca&height=200&text=%20FE_study3_2%20⋆✴︎˚｡⋆&animation=fadeIn&fontColor=fff&align=center)
