@@ -1,4 +1,4 @@
-# FE_study3_2
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff7e01&height=200&text=%20FE_study3_2%20&animation=fadeIn&fontColor=fff&align=center)
 
 프론트엔드 스터디 3팀 (2) 레포입니다.
 
@@ -10,8 +10,8 @@
 
 #### 🦁 아기사자
 
-| 이민아 | 이소라 |
-| ------ | ------ |
-| 최솔   | 고권혜 |
+| 이민아 | 이소라 | 최솔 | 고권혜 |
+| ------ | ------ |------ |------ |
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9caca&height=200&text=%20FE_study3_2%20⋆✴︎˚｡⋆&animation=fadeIn&fontColor=fff&align=center)
+
+
